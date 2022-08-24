@@ -39,3 +39,11 @@ With that command you can implement simple console application like that.
 
 
             Wait();
+
+# Running code
+
+Download folder and run MAKE.BAT or compile with CSC.exe joining test.cs and bas.cs
+
+Execute test file and enjoy it.
+
+![Demostración](console.png)
