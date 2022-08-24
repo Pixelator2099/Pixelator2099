@@ -54,3 +54,9 @@ Execute test file and enjoy it.
 * Enjoy basic commands
 * Learn more about C# compiler
 
+# Console Projects 
+
+This project create a guessing game using variables and input command
+
+https://github.com/sharan8844/NumberGuesser_consoleApp
+
