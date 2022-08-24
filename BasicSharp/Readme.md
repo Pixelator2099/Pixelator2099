@@ -47,3 +47,10 @@ Download folder and run MAKE.BAT or compile with CSC.exe joining test.cs and bas
 Execute test file and enjoy it.
 
 ![Demostración](console.PNG)
+
+# Objective
+
+* Reduce complexity of code
+* Enjoy basic commands
+* Learn more about C# compiler
+
