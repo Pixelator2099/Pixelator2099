@@ -7,39 +7,140 @@ https://www.eafit.edu.co/centros/celee/practicas-en-lectoescritura/Documents/con
 
 ## Adición 
 
-Y / además / también / más / aún / ahora bien / amén /
-agregando a lo anterior /por otra parte / así mismo / de igual
-manera / igualmente / en esa misma línea.
-
-además, también, asimismo, por añadidura, igualmente, encima, es más, más aún, incluso, hasta, para colmo, del mismo modo, agregando a lo anterior, de igual manera, igualmente, de la misma manera, en esa misma línea, de igual forma, por añadidura, más aún.
++ además 
++ agregando a lo anterior 
++ agregando a lo anterior, 
++ ahora bien 
++ asimismo, 
++ así mismo 
++ aún 
++ de igual forma, 
++ de igual manera 
++ de igual manera, 
++ de la misma manera, 
++ del mismo modo, 
++ en esa misma línea, 
++ en esa misma línea.
++ encima, 
++ es más, 
++ hasta, 
++ igualmente 
++ igualmente, 
++ incluso, 
++ más 
++ más aún, 
++ más aún.
++ para colmo, 
++ por añadidura, 
++ por otra parte 
++ también 
++ Y 
 
 ## Contraste 
 
-Pero / inversamente / a pesar de / empero / sin embargo /
-aunque / por el contrario / no obstante / aun cuando / sin obstar /
-de otra manera / por otro lado / en contraste con / antes bien / en
-cambio / de otra parte.
++ Pero 
++ inversamente 
++ a pesar de
++ empero 
++ sin embargo
++ aunque 
++ por el contrario /
++ no obstante / 
++ aun cuando / 
++ sin obstar /
++ de otra manera / 
++ por otro lado / 
++ en contraste con / 
++ antes bien / 
++ en cambio 
++ de otra parte.
++ con todo, 
++ a pesar de todo, 
++ aun así, 
++ ahora bien, 
++ de cualquier modo, 
++ al mismo tiempo aunque, 
++ aún cuando, 
++ a pesar de que
 
-con todo, a pesar de todo, aun así, ahora bien, de cualquier modo, al mismo tiempo aunque, aún cuando, a pesar de que. Los restrictivos expresan posturas contrarias. Por ejemplo: pero, sin embargo, no obstante, en cierto modo, en cierta medida, hasta cierto punto, por otra parte, sino, en cambio, al contrario.
+Los restrictivos expresan posturas contrarias. Por ejemplo: pero, sin embargo, no obstante, en cierto modo, en cierta medida, hasta cierto punto, por otra parte, sino, en cambio, al contrario.
 
 ## Causa/efecto 
 
-Porque / por consiguiente / por eso / por esta razón / de ahí que /
-por lo tanto (por tanto) / de modo que / se infiere que / en
-consecuencia / de esto se sigue / pues / por este motivo / según /
-entonces / en consecuencia / en conclusión / por ende / ya que.
-
-porque, pues, puesto que, ya que, debido a que (conectores de causa), por tanto, de ahí que, en consecuencia, así pues, por consiguiente, por lo tanto, por eso, por lo que sigue, por esta razón, entonces, entonces resulta que, de manera que, luego, así que, en ese sentido, de tal forma, en efecto, o sea, en otras palabras, por otro lado, por ejemplo, en pocas palabras (
++ Porque 
++ por consiguiente 
++ por eso 
++ por esta razón 
++ de ahí que /
++ por lo tanto (por tanto) 
++ de modo que 
++ se infiere que 
++ en consecuencia 
++ de esto se sigue 
++ pues por este motivo 
++ según /
++ entonces 
++ en consecuencia 
++ en conclusión 
++ por ende 
++ ya que.
++ porque, 
++ pues, 
++ puesto que, 
++ ya que, 
++ debido a que (conectores de causa), 
++ por tanto, 
++ de ahí que, 
++ en consecuencia, 
++ así pues, 
++ por consiguiente, 
++ por lo tanto, 
++ por eso, 
++ por lo que sigue, 
++ por esta razón, 
++ entonces, 
++ entonces resulta que, 
++ de manera que, 
++ luego, 
++ así que, 
++ en ese sentido, 
++ de tal forma, 
++ en efecto, 
++ o sea, 
++ en otras palabras, 
++ por otro lado, 
++ por ejemplo, 
++ en pocas palabras 
 
 ## Tiempo 
 
-Después / antes / seguidamente / ahora / entre tanto / en adelante
-/ mientras / posteriormente / entonces / a menudo /
-simultáneamente / cuando / a medida que / en seguida
++ Después / 
++ antes / 
++ seguidamente / 
++ ahora / 
++ entre tanto / 
++ en adelante
++  mientras / 
++  posteriormente / 
++  entonces / 
++  a menudo /
++  simultáneamente / 
++  cuando / 
++  a medida que / 
++  en seguida
 
 ## Comparativo
 
- del mismo modo, igualmente, análogamente, de modo similar, como, así como, más… que, menos… que, igual… que, tan… como.
++ del mismo modo, 
++ igualmente, 
++ análogamente, 
++ de modo similar, 
++ como, 
++ así como, 
++ más… que, 
++ menos… que, 
++ igual… que, 
++ tan… como.
  
 ##  reformulativos
  
